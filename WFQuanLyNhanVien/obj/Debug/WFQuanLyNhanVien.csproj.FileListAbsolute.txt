@@ -1,0 +1,10 @@
+D:\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.exe.config
+D:\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.exe
+D:\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.pdb
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.AssemblyReference.cache
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.Form1.resources
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.Properties.Resources.resources
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.GenerateResource.cache
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.exe
+D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.pdb
