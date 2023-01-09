@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WFQuanLyNhanVien.Controller;
 
 namespace WFQuanLyNhanVien
 {
@@ -93,6 +94,7 @@ namespace WFQuanLyNhanVien
             tvPhongBan.Nodes.Clear();
             List<PhongBan> lstPhongBan = new List<PhongBan>();           
             DataTable phongBanDataTable = phongBanADO.selectAllPhongBan();
+      
             TreeNode phongBanNode = new TreeNode();
             foreach (DataRow item in phongBanDataTable.Rows)
             {
@@ -222,6 +224,8 @@ namespace WFQuanLyNhanVien
         {
             panel1.Enabled = true;
             panel4.Enabled = true;
+            btnEdit.Enabled = false;
+            btnDelete.Enabled = false;
             btnSave.Enabled = true;
 
         }

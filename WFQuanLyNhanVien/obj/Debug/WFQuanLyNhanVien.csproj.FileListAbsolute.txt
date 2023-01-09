@@ -8,3 +8,13 @@ D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.GenerateResource.cache
 D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.CoreCompileInputs.cache
 D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.exe
 D:\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.pdb
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.exe.config
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.exe
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\bin\Debug\WFQuanLyNhanVien.pdb
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.AssemblyReference.cache
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.Form1.resources
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.Properties.Resources.resources
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.GenerateResource.cache
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.csproj.CoreCompileInputs.cache
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.exe
+D:\AppQLNV\QuanLyNhanVien\WFQuanLyNhanVien\obj\Debug\WFQuanLyNhanVien.pdb

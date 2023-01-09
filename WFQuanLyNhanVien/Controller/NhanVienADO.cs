@@ -5,13 +5,14 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using WFQuanLyNhanVien.Controller;
 
 namespace WFQuanLyNhanVien
 {
     class NhanVienADO
     {
-        private string ConnectionString = @"Data Source=DESKTOP-H8M37V7\SQLEXPRESS;Initial Catalog=WFQuanLyNhanVien;User ID=sa;Password=123";
+        //private string ConnectionString = @"Data Source=DESKTOP-H8M37V7\SQLEXPRESS;Initial Catalog=WFQuanLyNhanVien;User ID=sa;Password=123";
+        private string ConnectionString = ConnectDBString.connectionString();
         private SqlConnection conn;
         public DataSet selectAllNhanVien()
         { 
